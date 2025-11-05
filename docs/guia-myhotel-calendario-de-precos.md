@@ -1,7 +1,7 @@
 ---
 sidebar_label: TARIFÁRIOS E DISPONIBILIDADE
 title: TARIFÁRIOS E DISPONIBILIDADE
-description: Guia rápido sobre como utilizar o calendário de preços no sistema MyHotel.
+description: Guia rápido sobre o uso do calendário de preços no sistema MyHotel.
 slug: /guia-myhotel-calendario-de-precos
 ---
 
@@ -148,11 +148,11 @@ Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relac
 
 8
 
-Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preços, disponibilidade e restrições que tem cadastrado para o tipo de quarto do tarifário:
+Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preços, disponibilidade e restrições que tem cadastradas para o tipo de quarto do tarifário:
 
 - **Preços:** Valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
 - **Allotment:** Quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
-- **Restrições:** Cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (Venda Parada: informa se tem fecho de vendas aplicado para o dia).
+- **Restrições:** Cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (*Venda Parada*: informa se tem fecho de vendas aplicado para o dia).
 
 E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
 
@@ -168,7 +168,7 @@ E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no cant
 
 9
 
-- **Editar**: Será possível **Editar Detalhes da Tarifa / Tipo de Quarto** para seguir com as atualizações de:
+- **Editar:** Será possível **Editar Detalhes da Tarifa / Tipo de Quarto** para seguir com as atualizações de:
   - _‘Preços do Quarto’_: Aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
 
 Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
@@ -186,9 +186,8 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 
 10
 
-- _‘Restrições do Tarifário’_:
-
-- _‘Fechar/Abrir Vendas’_:
+- _‘Restrições do Tarifário’_
+- _‘Fechar/Abrir Vendas’_
 
 
 
@@ -203,7 +202,7 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 
 11
 
-- _‘Informação da Tarifa’_: Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
+- _‘Informação da Tarifa’_: Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
 
 Após realizar a atualização das informações, clique em **Salvar**.
 
