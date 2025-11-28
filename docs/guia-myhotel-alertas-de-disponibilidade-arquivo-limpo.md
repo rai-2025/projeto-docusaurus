@@ -56,13 +56,9 @@ Motor de Reservas:
 
 ## IMPORTANTE SABER
 
-* **APÓS O SISTEMA APLICAR O FECHO DE VENDA PARA O TIPO DE QUARTO**
-**CONFIGURADO, A ‘ABERTURA DA VENDA’ DEVERÁ SER FEITA MANUALMENTE**
-**PELO HOTEL.**
+* **APÓS O SISTEMA APLICAR O FECHO DE VENDA PARA O TIPO DE QUARTO CONFIGURADO, A ‘ABERTURA DA VENDA’ DEVERÁ SER FEITA MANUALMENTE PELO HOTEL.**
 
-* **AS CONFIGURAÇÕES DE NOTIFICAÇÃO E FECHO DE VENDAS**
-**CONSIDERARÃO O ‘INVENTÁRIO’ CADASTRADO PARA OS TIPOS DE QUARTOS,**
-**E NÃO O 'ALLOTMENT'."**
+* **AS CONFIGURAÇÕES DE NOTIFICAÇÃO E FECHO DE VENDAS CONSIDERARÃO O ‘INVENTÁRIO’ CADASTRADO PARA OS TIPOS DE QUARTOS, E NÃO O 'ALLOTMENT'."**
 
 ## Mais Opções:
 
@@ -78,7 +74,7 @@ responsáveis pelo controle de disponibilidade; este campo é obrigatório.
 * **Assunto:** defina qual a mensagem será exibida no título do e-mail; este campo é
 obrigatório. E clique em **“Traduzir”** para seguir com as traduções do assunto.
 
-Para acessar o ‘Histórico de Alterações’ das configurações de ‘alertas de disponibilidade’,
+Para acessar o ‘Histórico de Alteraçõs’ das configurações de ‘alertas de disponibilidade’,
 clique no botão ‘mais opções’ (sinalizado com três pontos), localizado ao lado dos
 botões Salvar/Fechar:
 
